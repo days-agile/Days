@@ -1,0 +1,22 @@
+{
+  "images" : [
+    {
+      "filename" : "inyaheart_45479_a_stylistic_album_cover_of_a_brown_hazy_backgro_6833bb4d-ecd9-46ed-b687-280cdb887363.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "inyaheart_45479_a_stylistic_album_cover_of_a_brown_hazy_backgro_6833bb4d-ecd9-46ed-b687-280cdb887364.png",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
